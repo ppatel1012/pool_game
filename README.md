@@ -11,7 +11,7 @@ It outputs results whenever a collision occurs, a rolling ball has stopped movin
 - Provides customizable parameters for simulation.
 
 ## Running the Code
-cd pool_game
-make
-export LD_LIBRARY_PATH=`pwd`
-./a1
+1. cd pool_game
+2. make
+3. export LD_LIBRARY_PATH=`pwd`
+4. ./a1
