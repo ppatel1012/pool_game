@@ -11,6 +11,12 @@ This program will continuosly check for collisions/bounce between rolling balls 
 - Supports multiple balls on the table.
 - Provides customizable parameters for simulation.
 
+## Running the Website
+1. make
+2. export LD_LIBRARY_PATH=`pwd`
+3. python3 extra.py (local host port number)
+4. open "http://localhost:(local host port number)/poolgame.html"
+   
 ## Running the C Code
 1. cd pool_game
 2. make
