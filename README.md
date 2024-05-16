@@ -15,7 +15,7 @@ This program will continuosly check for collisions/bounce between rolling balls 
 1. cd pool_game
 2. make
 3. export LD_LIBRARY_PATH=`pwd`
-4. ./a1
+4. ./A1test1.c
 
 ## Running the WebServer
 1. make
